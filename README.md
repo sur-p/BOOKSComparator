@@ -1,3 +1,13 @@
+BooksComparator
+A web application which takes book title and shows book details using Google books api and Compare it's price at different e-commerce sites using python web scraping , creating API endpoints for JSON response using Flask framework.
+
+
+Technologies Used-Technologies Used- Frontend: Reactjs , Backend:Flask ,web scraping(Python)
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
